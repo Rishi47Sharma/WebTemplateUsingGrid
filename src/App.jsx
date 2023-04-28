@@ -23,13 +23,7 @@ function App() {
       
       </div>
      </div>
-     {/* <div className='grid grid-cols-11 grid-rows-5'> 
-     <div className=" row-start-1 row-end-3 col-start-1 col-end-12 bg-gray-500 ">Intstructional video player</div>
-     <div className='row-start-3 row-end-5 col-start-1 col-end-12 bg-gray-400'>  live Video of students listening
-     <div className=' grid grid-cols-2 grid-rows-4 p-2 gap-2  '>
-     {renderStudent}
-      </div></div>
-     </div> */}
+   
       
       <div className=" text-center  w-full bg-blue-500 h-[10%] p-4     ">
       <div>Footer with logo</div>
