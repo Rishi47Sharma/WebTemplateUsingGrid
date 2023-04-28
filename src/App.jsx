@@ -25,7 +25,7 @@ function App() {
      </div>
    
       
-      <div className=" text-center  w-full bg-blue-500 h-[10%] ">
+      <div className=" text-center  w-full bg-blue-500 h-[10%] p-3">
       <div>Footer with logo</div>
       </div>
     
